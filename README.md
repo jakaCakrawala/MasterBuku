@@ -14,4 +14,6 @@ Server version: 10.1.34-MariaDB - mariadb.org binary distribution
 
 Jawaban Soal 1-9 ada pada file dokumen kiostx.pdf
 
+OS = Windows 10
+
 
